@@ -3,6 +3,11 @@
 docker development environment - a simple and small wrapper around docker to ease it's usage as a dev env
 
 
+# STATUS
+
+WARNING - THIS PROJECT IS UNDER ACTIVE DEVELOPMENT AND IS NOT CURRENTLY USABLE !
+
+
 # summary 
 
 The purpose of DDE is to give you a fully controlled developement environnement.
